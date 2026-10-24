@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="280" viewBox="0 0 1100 280" fill="none">
+  <defs>
+    <linearGradient id="mint" x1="38" y1="30" x2="165" y2="191" gradientUnits="userSpaceOnUse"><stop stop-color="#9CEBDD"/><stop offset="1" stop-color="#35AFA1"/></linearGradient>
+    <linearGradient id="blue" x1="147" y1="32" x2="204" y2="128" gradientUnits="userSpaceOnUse"><stop stop-color="#8EB8FF"/><stop offset="1" stop-color="#477FE9"/></linearGradient>
+    <linearGradient id="smp" x1="683" y1="57" x2="790" y2="141" gradientUnits="userSpaceOnUse"><stop stop-color="#8EB8FF"/><stop offset="1" stop-color="#7FE0D0"/></linearGradient>
+  </defs>
+  <g transform="translate(22 28) scale(1.75)">
+    <path d="M29 22H77L105 50V106H53L29 82V22Z" fill="#F0F4F8"/>
+    <path d="M42 38H70L89 57V90H63L42 69V38Z" fill="url(#mint)"/>
+    <path d="M70 38L96 25V58L89 65L70 57V38Z" fill="url(#blue)"/>
+    <path d="M70 57L89 65V90H63V69L70 57Z" fill="#3565B7"/>
+    <path d="M42 38H70V57L63 69V90L42 69V38Z" fill="url(#mint)"/>
+    <path d="M29 22H77L105 50V106H53L29 82V22Z" stroke="#F0F4F8" stroke-width="3" stroke-linejoin="round"/>
+  </g>
+  <text x="262" y="140" font-family="Onest, Arial, sans-serif" font-size="90" font-weight="900" letter-spacing="-6" fill="#F0F4F8">UNFOLD</text>
+  <text x="665" y="140" font-family="Onest, Arial, sans-serif" font-size="90" font-weight="900" letter-spacing="-4" fill="url(#smp)">SMP</text>
+  <path d="M267 176H350" stroke="#7CDECF" stroke-width="6" stroke-linecap="round"/>
+  <text x="267" y="220" font-family="Onest, Arial, sans-serif" font-size="21" font-weight="700" letter-spacing="5.2" fill="#8D9AAA">VANILLA SURVIVAL · COMMUNITY RULES</text>
+</svg>
